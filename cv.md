@@ -72,3 +72,12 @@ I am skilful at Math and able to learn quickly. My number one priority is to fin
         return;
       }
     });
+6. 
+7. Education:
+    * High School
+    * University
+    * JavaScript course: https://www.youtube.com/playlist?list=PLcvhF2Wqh7DPD5sRK3lw4bjBsKdgY2bPi
+    * Books:
+        1. HTML & CSS Headfirst
+        2. JavaScript for kids
+        3. Grokking Algorithms
