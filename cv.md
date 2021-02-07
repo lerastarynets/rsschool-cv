@@ -81,3 +81,4 @@ I am skilful at Math and able to learn quickly. My number one priority is to fin
         1. HTML & CSS Headfirst
         2. JavaScript for kids
         3. Grokking Algorithms
+8. I have a CAE certificates which means my level is C1
