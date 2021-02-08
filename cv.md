@@ -1,6 +1,6 @@
 1. Starynets Valeriia
 2. Email: *starynetsv@gmail.com*
-3. I have no experienc, however, I managed to learn HTML, CSS and JavaScript basics on my own. I want to gain insight into JavaScript, learn React and start IT career. 
+3. I have no experienc, however, I managed to learn HTML, CSS and JavaScript basics on my own. I want to gain insight into JavaScript, learn React and start IT career.\
 I am skilful at Math and able to learn quickly. My number one priority is to find a job in IT field.
 4. JavaScript, Git
 5. ```
@@ -8,14 +8,14 @@ I am skilful at Math and able to learn quickly. My number one priority is to fin
       return Math.floor(Math.random() * size);
     };
 
-    // Calculate distance between click event and target
+    // Calculate distance between click event and target\
     var getDistance = function (event, target) {
       var diffX = event.offsetX - target.x;
       var diffY = event.offsetY - target.y;
       return Math.sqrt((diffX * diffX) + (diffY * diffY));
     };
 
-    // Get a string representing the distance
+    // Get a string representing the distance\
     var getDistanceHint = function (distance) {
       if (distance < 10) {
         return "Huya pichot";
@@ -72,6 +72,7 @@ I am skilful at Math and able to learn quickly. My number one priority is to fin
         return;
       }
     });
+    ```
 6. 
 7. Education:
     * High School
