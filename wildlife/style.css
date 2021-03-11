@@ -118,7 +118,7 @@ main {
 /*Survival styles*/
 .survival {
   min-height: 100vh;
-  background: url(../img/survival_bg.jpg) no-repeat center;
+  background: url(./assets/survival_bg.jpg) no-repeat center;
   background-size: cover;
   padding-top: 200px;
 }
@@ -204,13 +204,13 @@ main {
   opacity: 60%;
 }
 .deer {
-  background: url(../img/deer.jpg);
+  background: url(./assets/deer.jpg);
 }
 .squirrel {
-  background: url(../img/squirrel.jpg);
+  background: url(./assets/squirrel.jpg);
 }
 .bird {
-  background: url(../img/bird.jpg);
+  background: url(./assets/bird.jpg);
 }
 .text_name {
   font-weight: normal;
@@ -269,7 +269,7 @@ main {
 
 /*Footer styles*/
 footer {
-  background: url(../img/footer-bg.jpg) no-repeat;
+  background: url(./assets/footer-bg.jpg) no-repeat;
 }
 .footer_wrapper {
   padding-top: 150px;
